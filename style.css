@@ -30,7 +30,8 @@ body {
     color: rgb(255, 255, 255);
     font-weight: 400;
     font-size: 1rem;
-    margin-left: 29rem;
+    margin-left: 2rem;
+    text-align: center;
 }
 
 .navbar-nav a {
