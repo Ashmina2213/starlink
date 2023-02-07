@@ -1,0 +1,347 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+    margin: 0!important;
+    padding: 0;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.section1 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./image/home-page.jpg");
+    background-size: cover;
+}
+
+.menu {
+    margin-left: 5vw;
+    margin-left: 5vw;
+}
+
+.section1-paragraph {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 1rem;
+    margin-left: 29rem;
+}
+
+.navbar-nav a {
+    margin-left: 5vw;
+    margin-left: 2vw;
+    color: white;
+    font-weight: 700;
+}
+
+.logo-text:hover {
+    color: white;
+}
+
+.logo-text {
+    font-weight: 700;
+    letter-spacing: 1.2vh;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: Roboto, Helvetica, sans-seri;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.nav-link:active {
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.section1-text {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.column1-text-2 {
+    color: white;
+    font-weight: 800;
+    font-family: Arial, Verdana, sans-serif;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.text-2 {
+    margin-top: 2vh !important;
+}
+
+.starlink-video {
+    background-color: black;
+}
+
+.starlink-video h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.starlink-video p {
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.starlink-video button {
+    width: 250px;
+    border-radius: 1;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 5wh;
+    height: 3rem;
+}
+
+.starlink-easy {
+    background-color: black;
+}
+
+.starlink-easy h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.starlink-easy p {
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.starlink-easy button {
+    width: 250px;
+    border-radius: 1;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 5wh;
+    height: 3rem;
+}
+
+.starlink-day {
+    background-color: black;
+}
+
+.starlink-day h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.starlink-day p {
+    color: white;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.starlink-day button {
+    width: 250px;
+    border-radius: 1;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 4em;
+    height: 3rem;
+}
+
+.imge {
+    height: 95vh;
+    width: 100%;
+}
+
+.box {
+    width: 100%;
+    height: 100v;
+}
+
+.section5 {
+width: 100%;
+    height: 100vh;
+    background-image: url("./image/travel.jpg");
+    background-size: cover;
+}
+
+.section5 h1 {
+    color: white;
+    margin-left: 5rem;
+}
+
+.section5 p {
+    color: white;
+    margin-left: 5rem;
+}
+
+.btn-travel {
+    width: 250px;
+    border-radius: 1;
+    border: 2px solid rgb(255, 255, 255);
+    margin-left: 5em;
+}
+
+.travel-section {
+    margin-top: 28vh;
+}
+
+.starlink-mobile {
+    background-color: black;
+}
+
+.starlink-mobile h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.starlink-mobile p {
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.btn-1,
+.btn-2 {
+    border-radius: 1;
+    height: 3rem;
+    margin-top: 1em;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.coustomer-section {
+    background-color: rgb(44, 43, 43);
+    height: 95vh;
+}
+
+.coustomer-section p {
+
+    color: white;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    padding: 4rem;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.customers-heading {
+    color: white;
+    text-align: center;
+    margin-top: 15vh;
+}
+
+.starlink-tree {
+    background-color: black;
+}
+
+.starlink-tree h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.starlink-tree p {
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.btn-tree {
+    border-radius: 1;
+    height: 3rem;
+    margin-top: 1em;
+    width: 18rem;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.starlink-spacex {
+    background-color: black;
+}
+
+.starlink-spacex h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.starlink-spacex p {
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.btn-spacex {
+    border-radius: 1;
+    height: 3rem;
+    margin-top: 1em;
+    width: 18rem;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.footter-section {
+    background-color: rgb(0, 0, 0);
+    height: 70vh;
+    width: 100%;
+}
+
+.verical-line-spacer {
+    width: 1px;
+    background-color: #fff;
+    border-radius: 1px;
+    border: 1px solid grey;
+    height: 230px;
+}
+
+.footter-text {
+    color: rgb(255, 255, 255);
+    margin-top: -3vh;
+    text-align: center;
+    
+}
+
+.btn-footter {
+    height: 3rem;
+    margin-top: -1em;
+    width: 18rem;
+    margin-left: 44vh;
+    border: 2px solid rgb(255, 255, 255);
+    font-weight: 800;
+    font-size: 1rem;
+    margin-left: 80vh;
+}
+
+.footter-section h6 {
+    color: gray;
+    font-size: revert;
+    margin-left: 5vh;
+    width: 98%;
+    
+}
+.last-words{
+    display: flex;
+    justify-content: center;
+  }
+.last-words a{
+    text-decoration: none;
+    color: rgb(255, 247, 247);
+    font-size: 2vh;
+
+}
+hr{
+    margin: 0rem;
+}
+
+@media only screen and (max-width:600px) {
+    .imge{
+        height: 50vh;
+    }
+
+
+
+
+
+}
